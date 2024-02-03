@@ -1,0 +1,265 @@
+[
+  {
+    "title": "THE FUTURE INFRASTRUCTURE",
+    "statements": [
+      "As an archive\nI need attention\nIn order to understand why I exist",
+      "As a curious audience member\nI need the ecosystem to be appealing, nicely designed (spacious/fun/translatable)\nIn order to enjoy using it/ browsing like in a gallery/museum (even if I \nm not an academic)",
+      "As an outside visitor\nI need to be able to understand the language, images etc. that are presented to me\nIn order to be able to find my way in the archive",
+      "As a (first time) user\nI need a search function that works in multiple ways (smart-search engines)\nIn order to find it relevant for my research practise",
+      "As a user\nI need the ecosystem to be easy to navigate through\nIn order to love using it",
+      "As a consumerist\nI need to not get what I want\nIn order to prevent self sufficient indifference & lack of curiosity",
+      "As a visitor/user\nI need to be surprised about the possibilities I may encounter, intersectional cross-referencing\nIn order to find it relevant and informative for my research practises",
+      "As a chaotic person\nI need a clean structure that gives an overview\nIn order to find the materials I’m looking for",
+      "As a browsing user\nI need to be able to jump in at any point/to any point of the material\nIn order to explore",
+      "As a researcher\nI need a space to work in private\nIn order to give ideas (and myself) the time they need",
+      "As a online tool\nI need to be kept up to date\nIn order to understand my relevance",
+      "As a group of busy people\nI need a lightweight form of sharing & communicating\nIn order to stimulate & sustain interconnectivity of exchange",
+      "As a neurodivergent person\nI need this ecosystem to be/offer a physical space\nIn order to browse, absorb and encounter research of others in a material tactile physical form.\nSo I can be housed within it - a library bookshop dedicated to research projects - to display and organise",
+      "As a lover of planet earth\nI need this sharing space to be sustainable, nonviolent & regenerative\nIn order to ensure that those contributing to it/involved in it\nexperience healthy relationships and practises for being careful ancestors and to stay alive",
+      "As a student maker\nI need the material to be kept in a embodied form\nIn order to keep the movement",
+      "As a researcher\nI need contact details of my fellow researchers/makers\nIn order to connect with people in my field, to communicate directly and potentially collaborate",
+      "As a coach for future creative producers\nI need the ecosysteman with an interface that gives me new ideas and connections I haven't thought of before\nIn order to be able to use it to fuse my practise and use it as a valued source",
+      "As a researcher (always on the move and working from different places)\nI need an ecosystem that is digital, interdisciplinary, and with a low threshold of access\nIn order to be able to use it to fuse my practise and use it as a valued source"
+    ],
+    "scores": {
+      "CREATIVE PRODUCING": {
+        "firstYear": [],
+        "secondYear": [0, 0, 6, 6, 6, 0, 6, 0, 0, 0, 6, 0, 0, 6, 0, 6, 6, 6],
+        "alumnus": [0, 0, 0, 0, 6, 0, 6, 0, 6, 0, 0, 6, 0, 0, 0, 12, 12, 6],
+        "institute": [0, 0, 18, 6, 0, 0, 12, 0, 0, 0, 6, 6, 0, 12, 0, 18, 24, 0]
+      },
+      "EMBODIED & THIRD": {
+        "firstYear": [9, 0, 18, 18, 18, 9, 9, 0, 9, 9, 0, 9, 9, 9, 0, 9, 9, 9],
+        "secondYear": [],
+        "alumnus": [9, 0, 0, 9, 0, 0, 9, 0, 0, 9, 0, 9, 18, 18, 0, 0, 0, 0],
+        "institute": [
+          0, 18, 9, 9, 18, 0, 18, 0, 18, 9, 0, 9, 36, 27, 27, 0, 27, 18
+        ]
+      },
+      "THEATRE": {
+        "firstYear": [
+          14, 14, 21, 21, 14, 0, 0, 21, 0, 14, 21, 0, 21, 14, 28, 7, 28, 7
+        ],
+        "secondYear": [14, 0, 0, 7, 0, 0, 0, 7, 0, 0, 7, 0, 7, 7, 0, 7, 0, 7],
+        "alumnus": [0, 0, 7, 0, 7, 0, 7, 0, 0, 0, 7, 0, 0, 7, 7, 7, 7, 7],
+        "institute": [
+          28, 7, 14, 21, 35, 0, 21, 7, 0, 0, 7, 0, 0, 14, 14, 0, 14, 7
+        ]
+      },
+      "CHOREO": {
+        "firstYear": [
+          0, 21, 7, 0, 14, 0, 21, 7, 7, 0, 0, 7, 7, 14, 0, 14, 0, 14
+        ],
+        "secondYear": [0, 0, 7, 0, 7, 0, 0, 7, 0, 0, 7, 0, 7, 0, 0, 7, 0, 14],
+        "alumnus": [],
+        "institute": [0, 7, 0, 0, 0, 0, 14, 0, 0, 7, 7, 0, 14, 7, 7, 0, 0, 0]
+      }
+    }
+  },
+  {
+    "title": "SHARING KNOWLEDGE",
+    "statements": [
+      "As a researcher\nI need a platform to share my research\nIn order to connect my content to others",
+      "As a lover of collective study\nI need this ecosystem to offer space for collective thinking, doing, being, making, generating.\nIn order to keep life/ideas/things in movement and flow. And to not get stuck or fixed",
+      "As an institute\nI need an online platform for the individual researches\nIn order to preserve them and to accumulate/create (new) knowledge",
+      "As a peer exchanged based curriculum\nI need an easy accessible way to create & share a variety of forms of documentation\nIn order to support collective invention of research practises",
+      "As an artistic researcher\nI need to get to know other artist and practitioners from other fields and their life experiences\nIn order to learn, experiment, rehearse, copy, blend authorship, get inspired and collaborate",
+      "As a maker\nI need easy access to storages and archives (of schools/musea)\nIn order to connect to the past better and integrate the past in my work",
+      "As an institution\nI need a form of cultivating practises that are open to external partners\nIn order to maintain a lively dialogue with the professional field & broader society",
+      "As a researcher/maker\nI need access to works & programs of the past\nIn order to be able to situate artists/artistic practises in the context of their communities & influences",
+      "As a director of DAS Theatre\nI need one workshop per year that deals with engaging with (live) performances by alumni\nIn order to connect different generations of students in an artistic way",
+      "As a 1st year student\nI need to be able to watch the video’s of the recent graduates\nIn order to locate my position at school better, connect to peers, broaden the knowledge of our generation and connect to different generations",
+      "As a European based institution\nI need access to participation from less privileged peers in the work\nIn order to overcome hegemonic blindness",
+      "As a language lover\nI would like an evolving glossary of terms\nIn order to learn/share/play/evolve language",
+      "As a maker\nI need a library of references used by others\nIn order to understand research better and draw inspiration",
+      "As a researcher\nI need to be able to give and receive feedback\nIn order to further my research and thinking",
+      "As an alumnus\nI need a place to share (and ask) things with the community\nIn order to find new connections, partners, colleagues"
+    ],
+    "scores": {
+      "CREATIVE PRODUCING": {
+        "firstYear": [],
+        "secondYear": [9, 0, 0, 9, 9, 0, 9, 0, 0, 9, 18, 0, 0, 0, 0],
+        "alumnus": [9, 9, 0, 9, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27],
+        "institute": [9, 18, 9, 18, 9, 0, 18, 0, 0, 9, 27, 0, 0, 0, 9]
+      },
+      "EMBODIED & THIRD": {
+        "firstYear": [0, 14, 7, 0, 14, 0, 7, 21, 0, 0, 14, 0, 0, 7, 7],
+        "secondYear": [],
+        "alumnus": [0, 7, 7, 0, 0, 0, 7, 7, 7, 0, 7, 7, 7, 0, 0],
+        "institute": [0, 14, 28, 0, 7, 0, 7, 21, 0, 0, 28, 7, 14, 7, 14]
+      },
+      "THEATRE": {
+        "firstYear": [0, 24, 0, 0, 24, 24, 40, 24, 16, 0, 16, 0, 16, 16, 24],
+        "secondYear": [0, 0, 0, 0, 8, 8, 8, 0, 8, 0, 8, 8, 0, 8, 0],
+        "alumnus": [0, 8, 0, 0, 0, 8, 8, 8, 0, 0, 8, 8, 8, 0, 0],
+        "institute": [0, 24, 0, 0, 0, 0, 8, 16, 16, 0, 24, 16, 32, 16, 16]
+      },
+      "CHOREO": {
+        "firstYear": [7, 7, 0, 28, 7, 0, 7, 0, 0, 7, 14, 7, 0, 0, 14],
+        "secondYear": [7, 7, 0, 7, 7, 0, 14, 0, 0, 0, 0, 0, 0, 0, 7],
+        "alumnus": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "institute": [7, 0, 0, 14, 14, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7]
+      }
+    }
+  },
+  {
+    "title": "ARCHIVING",
+    "statements": [
+      "As a programme coordinator\nI need an archive\nIn order to inspire me and understand the trajectory that we are building",
+      "As a archivist\nI need a space with good conservative technology\nIn order to not lose fragile materials (digital and physical?)",
+      "As a non organised person\nI need to have clear and easy methodologies of archiving work and personal thoughts\nIn order to be able to come back to them and develop them",
+      "As a archivist\nI need to be able to edit my material, and have ways of opening up and activating my archive.\nIn order to continuously give meaning to the archive, to keep the research alive, and allow it to be of relevance",
+      "As a coach for future creative producers\nI need an archive of processes, knowledge production and outcomes\nIn order to advise my students to share their own research",
+      "As a graduate student/researcher\nI need to be able to design the archival format of my research work, where it fits the specificity of the research material\nIn order to make sure it resonates with the essence of the practice without the risk of misinterpretation",
+      "As a student\nI need to learn about the importance of archiving as a political issue\nIn order to not reproduce power relationships",
+      "As a non-european archive\nI need to be published\nIn order not to continue to be invisible",
+      "As a student maker\nI need to archive the body\nIn order to keep it's knowledge in the original context",
+      "As a hoarder of information/ researcher\nI need an automated random system that throws one of my archived documents back at me for review on a regular basis\nIn order to reconsider what I have & bring a game into my research & help me clean up my archive & trust in randomness as a research tool"
+    ],
+    "scores": {
+      "CREATIVE PRODUCING": {
+        "firstYear": [],
+        "secondYear": [0, 0, 6, 6, 0, 6, 6, 6, 0, 0],
+        "alumnus": [0, 12, 12, 6, 0, 0, 0, 0, 0, 0],
+        "institute": [0, 0, 0, 12, 6, 12, 12, 12, 0, 6]
+      },
+      "EMBODIED & THIRD": {
+        "firstYear": [7, 0, 7, 14, 7, 14, 14, 0, 0, 0],
+        "secondYear": [],
+        "alumnus": [7, 0, 0, 7, 0, 7, 7, 14, 0, 0],
+        "institute": [7, 0, 14, 21, 21, 14, 14, 0, 0, 0]
+      },
+      "THEATRE": {
+        "firstYear": [7, 7, 14, 14, 7, 14, 14, 28, 21, 14],
+        "secondYear": [7, 0, 0, 7, 0, 7, 7, 7, 0, 0],
+        "alumnus": [7, 0, 7, 0, 0, 0, 7, 7, 0, 7],
+        "institute": [14, 14, 14, 0, 14, 0, 21, 7, 7, 14]
+      },
+      "CHOREO": {
+        "firstYear": [0, 6, 6, 12, 0, 0, 12, 12, 0, 12],
+        "secondYear": [6, 0, 12, 0, 0, 0, 6, 6, 0, 6],
+        "alumnus": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "institute": [6, 0, 0, 0, 0, 0, 12, 6, 6, 0]
+      }
+    }
+  },
+  {
+    "title": "MAKING",
+    "statements": [
+      "As a storyteller\nI need to hear thoughts of others in the development part\nIn order to enrich my stories",
+      "As a dance practitioner\nI need studio space & other dance practitioners\nIn order to create and get the embodied knowledge activated & shared",
+      "As a researcher\nI need to be much more in the rehearsals of making artistic work (performances, theatre, installations)\nIn order to understand the generating of knowledge more up close",
+      "As a body based practices\nI need forms of practising that are based upon lived experiences, sensitization of bodily senses\nIn order to prevent domination of screen based technologies",
+      "As a story lover\nI need to be included in the research part of stories I consume\nIn order to really connect with them",
+      "As a student\nI need to be stimulated with formats of writing as a poetical and choreographic language\nIn order to open up my way of writing",
+      "As a dance practitioner\nI need communication strategies, scoring practises, narrating tools, poetic images\nIn order to invoke embodied experiences with others",
+      "As a student\nI need methods and tools for documenting & reflecting on my process\nIn order to have more agency within my own education and understand the learning trajectory I have made",
+      "As a student\nI need open space\nIn order to feel the freedom to explore",
+      "As a choreographer\nI need to collect information from the public that saw my work\nIn order to add other perspectives besides my own"
+    ],
+    "scores": {
+      "CREATIVE PRODUCING": {
+        "firstYear": [],
+        "secondYear": [7, 0, 0, 7, 7, 0, 0, 7, 0, 7],
+        "alumnus": [7, 0, 0, 0, 7, 7, 0, 7, 0, 7],
+        "institute": [21, 0, 0, 7, 14, 0, 0, 21, 0, 7]
+      },
+      "EMBODIED & THIRD": {
+        "firstYear": [0, 8, 16, 0, 8, 16, 8, 16, 0, 8],
+        "secondYear": [],
+        "alumnus": [0, 16, 0, 0, 0, 8, 16, 0, 0, 0],
+        "institute": [0, 24, 16, 16, 0, 16, 8, 16, 16, 8]
+      },
+      "THEATRE": {
+        "firstYear": [27, 18, 18, 27, 18, 9, 0, 9, 9, 9, 27],
+        "secondYear": [9, 9, 9, 0, 0, 0, 0, 9, 0, 0, 9],
+        "alumnus": [0, 9, 0, 9, 0, 0, 9, 0, 9, 9, 0],
+        "institute": [0, 27, 9, 27, 0, 0, 9, 9, 27, 27, 0]
+      },
+      "CHOREO": {
+        "firstYear": [0, 0, 0, 7, 0, 0, 7, 14, 28, 0, 14],
+        "secondYear": [0, 0, 7, 0, 7, 0, 14, 0, 0, 0, 7],
+        "alumnus": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "institute": [0, 0, 7, 0, 14, 0, 0, 7, 0, 0, 7]
+      }
+    }
+  },
+  {
+    "title": "PUBLISHING",
+    "statements": [
+      "As a writer/artist\nI need the end of the processes not to be a publication\nIn order to challenge me to spread knowledge in a different way and continue to take the act of publishing serious",
+      "As a book/image\nI need to be read/shown\nIn order to understand why I’m there/to feel me",
+      "As a dancer\nI need more yearly publications about dance that are playful, embodied and creative with language\nIn order to connect to the current developments in dance in a broad way",
+      "As a performer\nI need more publications written from the point of view of a performer (not director)\nIn order to gain more knowledge about the receiving learning processes in artistic developments",
+      "As a child\nI need publications about current artistic research in the form of children’s books\nIn order to multiply and translate artistic research to the next generation easily",
+      "As a researcher\nI need to show my research\nIn order for it to exist beyond the academy",
+      "As a performer\nI need to share public events\nIn order to reach additional research interested public/peers",
+      "As a peer/researcher\nI need to be able to quickly see the current status of a research\nIn order to be kept up to date about the developments"
+    ],
+    "scores": {
+      "CREATIVE PRODUCING": {
+        "firstYear": [],
+        "secondYear": [0, 0, 0, 4, 0, 4, 4, 4],
+        "alumnus": [0, 0, 0, 4, 4, 4, 4, 0],
+        "institute": [0, 0, 0, 8, 4, 8, 4, 8]
+      },
+      "EMBODIED & THIRD": {
+        "firstYear": [18, 0, 0, 18, 9, 18, 0, 9],
+        "secondYear": [],
+        "alumnus": [0, 9, 9, 9, 9, 0, 0, 0],
+        "institute": [18, 0, 18, 9, 18, 9, 27, 9]
+      },
+      "THEATRE": {
+        "firstYear": [25, 10, 0, 10, 15, 5, 5, 10],
+        "secondYear": [0, 5, 0, 0, 0, 5, 5, 5],
+        "alumnus": [5, 5, 0, 0, 5, 0, 5, 0],
+        "institute": [15, 20, 0, 0, 0, 5, 20, 0]
+      },
+      "CHOREO": {
+        "firstYear": [0, 0, 0, 12, 6, 18, 0, 12],
+        "secondYear": [0, 0, 6, 6, 12, 0, 0, 6],
+        "alumnus": [0, 0, 0, 0, 0, 0, 0, 0],
+        "institute": [0, 0, 6, 0, 0, 12, 0, 6]
+      }
+    }
+  },
+  {
+    "title": "INSTITUTE IDENTITY",
+    "statements": [
+      "As an institute\nI need an alive platform\nIn order to make visible what we are doing and track our collective knowledge",
+      "As a student/maker\nI need the institute to facilitate digital presence of my work\nIn order to have to rely on myself and the skills I have in transforming my material for others to encounter",
+      "As a visitor\nI need to access information easily without bureaucracy\nIn order to not have to deal with control of the institution",
+      "As a student\nI need more clear meeting points with other faculties\nIn order to connect better between departments",
+      "As a new member\nI need an insight in the artistic history of the school and the past visions of the institution\nIn order to understand where its pedagogies are coming from, get inspired and position & deepen new visions",
+      "As a future student at DAS choreography\nI need to know how the non-european students survived and how their personal daily experience was\nIn order to feel myself connect with a kind of (weird) heritage",
+      "As a student\nI need a central portal where I can effectively communicate with all researchers\nIn order to connect better with my peers",
+      "As an alumnus\nI need to be able to keep using the platform for ongoing research\nIn order to keep developing my work"
+    ],
+    "scores": {
+      "CREATIVE PRODUCING": {
+        "firstYear": [],
+        "secondYear": [0, 0, 4, 4, 0, 0, 4, 4],
+        "alumnus": [0, 0, 4, 4, 0, 0, 4, 4],
+        "institute": [0, 0, 4, 4, 4, 4, 8, 8]
+      },
+      "EMBODIED & THIRD": {
+        "firstYear": [7, 7, 14, 7, 14, 0, 0, 7],
+        "secondYear": [],
+        "alumnus": [7, 0, 7, 0, 7, 0, 0, 7],
+        "institute": [21, 0, 28, 7, 7, 0, 7, 14]
+      },
+      "THEATRE": {
+        "firstYear": [6, 6, 18, 6, 18, 18, 0, 24],
+        "secondYear": [6, 0, 0, 18, 0, 0, 0, 0],
+        "alumnus": [6, 0, 0, 0, 6, 6, 0, 6],
+        "institute": [12, 0, 0, 0, 18, 12, 12, 18]
+      },
+      "CHOREO": {
+        "firstYear": [0, 0, 10, 5, 5, 10, 0, 10],
+        "secondYear": [0, 0, 5, 0, 5, 0, 5, 5],
+        "alumnus": [0, 0, 0, 0, 0, 0, 0, 0],
+        "institute": [5, 0, 0, 0, 5, 0, 5, 5]
+      }
+    }
+  }
+]
